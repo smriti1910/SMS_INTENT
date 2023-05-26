@@ -185,7 +185,9 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-## OUTPUT
+## OUTPUT:
+![image](https://github.com/smriti1910/SMS_INTENT/assets/133334803/06fc47da-55be-4959-bfa3-08f8684662ed)
+
 ![image](https://github.com/smriti1910/SMS_INTENT/assets/133334803/a591e10b-df9b-4aa1-a3f0-88847c91f75b)
 
 
