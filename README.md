@@ -36,9 +36,6 @@ Registeration Number : 212221040156
 ```
 
 ## OUTPUT
-![image](https://github.com/smriti1910/SMS_INTENT/assets/133334803/2eb27447-16d3-43e9-8dc6-6f40b54aac10)
-![image](https://github.com/smriti1910/SMS_INTENT/assets/133334803/95b679c6-a441-41a3-af6c-77f995ce79f1)
-
 
 ## RESULT
 Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
